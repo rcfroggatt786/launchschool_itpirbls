@@ -1,0 +1,5 @@
+1. false
+2. false
+3. false (4 is not a boolean)
+4. true (integer and string are different objects)
+5. true 

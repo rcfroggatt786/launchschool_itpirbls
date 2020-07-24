@@ -1,0 +1,6 @@
+# Snippet 1:
+FALSE
+# Snippet 2:
+Did you get it right? # NB x not changed on LHS of expression. x still 2 on RHS
+# Snippet 3:
+Alright now!
