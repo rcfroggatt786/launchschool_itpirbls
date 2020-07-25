@@ -1,0 +1,6 @@
+The program outputs:
+
+These hashes are the same!
+
+They are the same because each key maps to the same value and they have the same 3 keys
+The order is not important although it is preserved (in Ruby 1.9+)

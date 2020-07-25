@@ -1,0 +1,3 @@
+Array is always ordered and contains only one set of values
+Hash is ordered after Ruby 1.9 and contains both keys and values in associated pairs
+Array is accessed by index (number) whereas Hash is accessed by key
