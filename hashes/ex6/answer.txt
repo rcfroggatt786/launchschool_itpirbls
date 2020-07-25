@@ -1,0 +1,2 @@
+The first example maps the symbol :x to the string "some value"
+The second example maps the string "hi there" to the string "some value"
