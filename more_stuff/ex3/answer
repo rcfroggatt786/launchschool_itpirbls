@@ -1,0 +1,4 @@
+Exception handling is taking action when an error occurs such as
+printing an error message or redirecting program flow, rather than crashing
+the program. It solves the issue of unpredicted behaviour, particular from
+outside programs.
